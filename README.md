@@ -21,5 +21,5 @@ A Django-based web application that allows uploading employee data via a CSV fil
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/employee-management.git
-   cd employee-management
+   git clone https://github.com/nageshguru888/Brainerhub_Employee_Upload.git
+   cd Company_Employee
